@@ -1,0 +1,7 @@
+.code-workspace
+.env
+staticfiles
+*.pyc
+migrations
+.vercel
+*.sqlite3
